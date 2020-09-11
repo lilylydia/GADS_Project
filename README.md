@@ -26,6 +26,6 @@ Learning Leaders - /api/hours
 Skill IQ Leaders - /api/skilliq
 
 **Project Designs and Flow:**
-<img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/splash_screen.png" alt="splash screen" width="500" height="600">
+<img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/splash_screen.png" alt="splash screen" width="300" height="400">
 ![splash screen](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/splash_screen.png)![learning leaders](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/learning_leaders.png)![skill IQ leaders](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/Skil_IQ_leaders.png)![submit info](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submit_infos.png)![submission failded](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submission_failed.png)![submission successfull](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submition_successful.png)
 
