@@ -28,5 +28,9 @@ Skill IQ Leaders - /api/skilliq
 **Project Designs and Flow:**
 <img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/splash_screen.png" alt="splash screen" width="300" height="500">
 <img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/learning_leaders.png" alt="learning leaders" width="300" height="500">
-(https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/Skil_IQ_leaders.png)![submit info](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submit_infos.png)![submission failded](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submission_failed.png)![submission successfull](https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submition_successful.png)
+<img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/Skil_IQ_leaders.png" alt="skill IQ leaders" width="300" height="500">
+<img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submit_infos.png" alt="submit infos" width="300" height="500">
+<img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submission_failed.png" alt="submission failded" width="200" height="400">
+<img src="https://github.com/lilylydia/GADS_Project/blob/master/Screenshots/submition_successful.png" alt="submission successfull" width="200" height="400">
+
 
